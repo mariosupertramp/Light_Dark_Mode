@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Dark and Light Mode</h1>
 
-<p id="description">Ejemplo del uso del Modo Oscuro y Claro con javascript puro. Además del uso de imágenes svg y un pattern de bacground.</p>
+<p id="description">Ejemplo del uso del Modo Oscuro y Claro con javascript puro. Además del uso de imágenes svg de udraw y un Pattern Heroe de Background.</p>
 
 <h2>Screenshot:</h2>
 
