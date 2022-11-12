@@ -5,3 +5,6 @@
 <h2>Screenshot:</h2>
 
 <img src="http://45.79.30.160/mode.png" alt="project-screenshot" width="600" height="400/">
+
+
+<img src="http://45.79.30.160/mode2.png" alt="project-screenshot" width="600" height="400/">
